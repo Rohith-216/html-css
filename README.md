@@ -28,5 +28,3 @@ The objective of the task is to build a clean, simple, and fully responsive **La
 
 ---
 
-## 📁 Project Structure
-
